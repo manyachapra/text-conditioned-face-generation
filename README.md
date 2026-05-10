@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project implements a Conditional Generative Adversarial Network (cGAN) for generating human face images from textual descriptions. The system combines Natural Language Processing (NLP) and Computer Vision techniques to synthesize facial images based on semantic text prompts.
+This project implements a Conditional Generative Adversarial Network (cGAN) for generating indian human face images from textual descriptions. The system combines Natural Language Processing (NLP) and Computer Vision techniques to synthesize facial images based on semantic text prompts.
 
 The model uses transformer-based text embeddings along with a GAN architecture to learn relationships between textual facial descriptions and corresponding face images.
 
